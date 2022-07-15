@@ -3,7 +3,7 @@
 
 ## I'm a Enginner by heart, previously Civil now Software!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my medium where I write about topics I'm currenctly studying (mostly in portuguese)
+- 🔭 I have a [medium] account where I write about topics I'm currently studying (mostly in portuguese)
 - 🌱 I’m currently learning React and node.js
 - 👯 I’m looking to collaborate on open source
 - ⚡ Fun fact: I'm a decent tennis player
@@ -44,3 +44,4 @@
 [website]: https://medium.com/@lucassss8v
 [linkedin]: https://www.linkedin.com/in/lucas-melo-bb0999210/
 [portfolio]: https://github.com/Lucas-Melo0?tab=repositories
+[medium]: https://medium.com/@lucassss8v
