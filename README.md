@@ -4,7 +4,7 @@
 ## I'm a Enginner by heart, previously Civil now Software!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I have a [medium] account where I write about topics I'm currently studying (mostly in portuguese)
-- 🌱 I’m currently learning React and node.js
+- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on open source
 - ⚡ Fun fact: I'm a decent tennis player
 
