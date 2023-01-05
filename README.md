@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,javascript,css,html,react,nodejs,express,mongo,postgresql" />
+  <img src="https://skillicons.dev/icons?i=linux,git,javascript,typescript,css,html,react,nodejs,express,mongo,postgresql,nest,mysql,prisma" />
 </a>
 
 <br />
