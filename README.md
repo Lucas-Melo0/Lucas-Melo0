@@ -4,7 +4,7 @@
 ## I'm a Enginner by heart, previously Civil now Software!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I have a [medium] account where I write about topics I'm currently studying (mostly in portuguese)
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning about Microservices architecture.
 - 👯 I’m looking to collaborate on open source
 - ⚡ Fun fact: I'm a decent tennis player
 
@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,javascript,typescript,css,html,react,nodejs,express,mongo,postgresql,nest,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=linux,git,javascript,typescript,golang,css,html,react,nodejs,express,mongo,postgresql,nest,mysql,prisma" />
 </a>
 
 <br />
